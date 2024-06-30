@@ -1,6 +1,6 @@
 ## Hosted Project
 
-[E-Commerce API Render URL](https://node-course-e-commerce.onrender.com/)
+[E-Commerce API Render URL](https://ecommerce-api01-1f7e97e065f9.herokuapp.com/)
 
 #### Setup Basic Express Server
 
